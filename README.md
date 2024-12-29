@@ -26,40 +26,7 @@ Here are the technologies I work with:
 
 [![SnyakoCode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SnyakoCode&show_icons=true&theme=dark&count_private=true&hide_title=true)](https://github.com/SnyakoCode)
 
-[![SnyakoCode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SnyakoCode&layout=compact&theme=dark)](https://github.com/SnyakoCode)
-
-## 🚀 About Me
-
-I'm a developer focused on **Gaming-Hacking** and **Discord/Telegram Bot Development**. I create tools, bots, and applications that improve user experiences, whether it's automating tasks, enhancing gameplay, or building custom solutions for communities.
-
-### 🎮 Gaming-Hacking
-
-In the **Gaming-Hacking** field, I specialize in **game reverse engineering**, **cheat development**, and **automation tools** to enhance the gaming experience. My focus is on creating custom solutions that allow players to unlock features, automate repetitive tasks, and modify game behavior.
-
-Key areas of expertise:
-- **Game Reverse Engineering**: Analyzing and modifying games to create custom tools.
-- **Cheat and Hack Development**: Developing cheats for various games.
-- **Automation**: Creating tools that automate in-game tasks.
-- **Modding**: Customizing game features for unique experiences.
-
-### 🤖 Discord & Telegram Bot Development
-
-I develop bots for **Discord** and **Telegram** that automate tasks, manage communities, and provide custom services. I also have experience with **SQL** and **NoSQL** databases to store and manage bot data, such as user settings and activity logs.
-
-Key areas of expertise:
-- **Bot Creation**: Building bots to automate tasks and manage communities.
-- **Database Management**: Designing and implementing databases for bot data.
-- **API Integration**: Integrating external APIs (e.g., social media, games, notifications).
-- **Automation**: Automating moderation and community engagement tasks.
-
-### 💻 Windows Application Development & IMGUI
-
-I also build **Windows desktop applications** and use **IMGUI** (Immediate Mode GUI) for creating flexible and efficient user interfaces. My focus is on creating fast, responsive applications with a focus on performance.
-
-Key areas of expertise:
-- **Windows Desktop Applications**: Developing native Windows apps.
-- **IMGUI**: Creating dynamic user interfaces with IMGUI.
-- **Performance Optimization**: Ensuring efficient resource usage.
+[![SnyakoCode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SnyakoCode&layout=compact&theme=dark)](https://github.com/SnyakoCode).
 
 ## 📬 Links
 
