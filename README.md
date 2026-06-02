@@ -31,7 +31,6 @@ Spotify lyrics parser with real-time synced status updates and a terminal-based 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SnyakoCode&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SnyakoCode&theme=tokyonight&utcOffset=6" />
 </p>
 
 ## Contact
