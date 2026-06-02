@@ -1,34 +1,32 @@
-# Hi, I'm SnyakoCode! 👋
+# Hi, I'm SnyakoCode 👋
+
 ![Snyako's Banner](https://i.pinimg.com/originals/bd/22/12/bd22126371bf5109aceab92256c690fe.gif)
 
-## 🛠️ Skills and Technologies
+I build terminal tools, automation software, and experimental projects with a focus on real-time interaction, low-level control, and clean developer workflows.
 
-Here are the technologies I work with:
+## Stack
 
-- **Programming Languages**: C++, Python
-- **Tools**: Docker, NVim, Git
-- **Databases**: MySQL, SQLite
-- **Operating Systems**: Windows, Arch Linux
-- **Libraries/Frameworks**: IMGUI
-- **Version Control**: Git
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FFD43B)
+![C%2B%2B](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=5CC8FF)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
 
-![C++](https://img.shields.io/badge/-C%2B%2B-blue?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![NVim](https://img.shields.io/badge/-NVim-57A143?style=flat&logo=vim&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
-![IMGUI](https://img.shields.io/badge/-IMGUI-FF8C00?style=flat&logo=appveyor&logoColor=white)
+## Featured Project
 
-## 📊 GitHub Stats
+### SpooDi
+Spotify lyrics parser with real-time synced status updates and a terminal-based lyric timeline viewer.
 
-[![SnyakoCode's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SnyakoCode&show_icons=true&theme=dark&count_private=true&hide_title=true)](https://github.com/SnyakoCode)
+[Open SpooDi](https://github.com/SnyakoCode/SpooDi)
 
-[![SnyakoCode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SnyakoCode&layout=compact&theme=dark)](https://github.com/SnyakoCode).
+## GitHub Stats
 
-## 📬 Links
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SnyakoCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnyakoCode&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-- 📧 Discord: [snyakocode](https://discord.com/users/1076432147386216470)
-- 🔝 Leetcode: [snyakocode](https://leetcode.com/snyakocode)
+## Contact
+
+[![Discord](https://img.shields.io/badge/Discord-snyakocode-111111?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/1076432147386216470)
+[![GitHub](https://img.shields.io/badge/GitHub-SnyakoCode-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SnyakoCode)
+[![LeetCode](https://img.shields.io/badge/LeetCode-snyakocode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/snyakocode)
