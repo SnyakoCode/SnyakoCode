@@ -11,13 +11,6 @@ I build terminal tools, automation software, and experimental projects with a fo
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
 
-## Featured Project
-
-### SpooDi
-Spotify lyrics parser with real-time synced status updates and a terminal-based lyric timeline viewer.
-
-[Open SpooDi](https://github.com/SnyakoCode/SpooDi)
-
 ## GitHub Stats
 
 <p align="center">
